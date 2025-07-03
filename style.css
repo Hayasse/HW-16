@@ -1,0 +1,33 @@
+.bg-box {
+    height: 500px;
+    width: 1000px;
+    background-image: 
+    url('png/images (1).png'),
+    url('png/lamp-png-34914.png'),
+    url('png/green-png-44873.png'),
+    url('png/3F3F.png'),
+    url('png/58eb07b830eab15b56162788 (1).jpg');
+
+    background-repeat: 
+    no-repeat,         
+    repeat-x,          
+    repeat-x,          
+    repeat-y,          
+    repeat-y;
+    
+    background-position: 
+    center,
+    top,
+    bottom,
+    left,
+    right;
+
+    background-size: 
+    auto,
+    40px,
+    300px,
+    30px,
+    25px;
+
+    background-color: green;
+}    
